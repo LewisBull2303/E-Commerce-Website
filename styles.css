@@ -606,6 +606,11 @@ footer .copyright{
   cursor: pointer;
 }
 
+.small-img-col2{
+  flex-basis: 15.5%;
+  cursor: pointer;
+}
+
 #product-details .single-product-details{
   width: 50%;
   padding-top: 50px;
