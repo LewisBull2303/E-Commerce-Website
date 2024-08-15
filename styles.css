@@ -895,11 +895,6 @@ footer .copyright{
   h1{
     font-size: 38px;
   }
-
-  p{
-    font-size: 12px;
-    max-width: 200px;
-  }
   #feature{
     justify-content: space-between;
   }
@@ -981,5 +976,27 @@ footer .copyright{
     width: 100%;
   }
 
+  /* About Page */
 
+  #about-header{
+    text-align: center;
+    justify-content: center;
+  }
+
+  #about-head{
+    flex-direction: column;
+  }
+
+  #about-head img{
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  #about-head div{
+    padding-left: 0;
+  }
+
+  #about-app .video{
+    width: 100%;
+  }
 }
